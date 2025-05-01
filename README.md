@@ -41,7 +41,7 @@ Designing a seamless and intuitive user experience is crucial for a booking plat
 | Page Name               | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | **Property Listing View** | Displays multiple properties with key info like image, price, location, and rating. Filters and search are available to narrow results. |
-| **Listing Detailed View** | Shows a full description of a selected property including image gallery, host information, amenities, availability calendar, and reviews. |
+| **Listing Detailed View** | Shows a full description of a selected property, including image gallery, host information, amenities, availability calendar, and reviews. |
 | **Simple Checkout View**  | Collects user booking details including dates, guest info, and payment. Provides a summary and confirmation button.                  |
 
 ---
@@ -52,10 +52,47 @@ User-friendly design improves the overall experience and directly influences whe
 - Builds **trust** with users through clear and professional visuals
 - **Reduces friction** and confusion during browsing and checkout
 - **Encourages return users** by offering an intuitive experience
-- Minimizes errors and drop-offs during the booking process
+- Minimises errors and drop-offs during the booking process
 - Supports accessibility for all users
 
 By focusing on simplicity, accessibility, and visual clarity, the goal is to ensure users can browse, explore, and book properties with confidence and ease.
 
 Added UI/UX Design Planning section to README
+### 🎨 Figma Design Properties
+
+As part of understanding UI/UX design, exploring the Figma environment helps us extract essential design values to ensure consistent styling throughout the application.
+
+#### 🖍️ Colour Styles Used
+
+- **Primary Color:** #FF5A5F (Airbnb Red)
+- **Secondary Colour:** #484848 (Dark Gray Text)
+- **Background Colour:** #F7F7F7 (Light Gray)
+- **Accent Colour:** #00A699 (Teal - for buttons or highlights)
+- **Text Colour:** #2C2C2C (Primary text)
+- **Link Colour:** #008489
+
+#### ✍️ Typography
+
+| Element       | Font Family | Font Weight | Font Size |
+|---------------|-------------|-------------|-----------|
+| Headings (H1) | Circular Std / Sans-serif | Bold       | 32px      |
+| Subheadings   | Circular Std / Sans-serif | Medium     | 24px      |
+| Body Text     | Circular Std / Sans-serif | Regular    | 16px      |
+| Button Text   | Circular Std / Sans-serif | Medium     | 14px      |
+
+> _Note: If Circular Std is not available, use **Poppins** or **Montserrat** as an open-source alternative._
+
+---
+
+### 🧠 Why Design Properties Matter
+
+Understanding and identifying colour styles and typography in a mockup is crucial for the following reasons:
+
+- **Consistency**: Ensures the UI remains uniform across all components and pages.
+- **Accessibility**: Helps create visual contrast and clarity for all users.
+- **Scalability**: Enables easier maintenance and updates when scaling the app or adding themes.
+- **Developer-Designer Handoff**: Clear documentation makes it easier to translate mockups into code.
+- **Brand Identity**: Maintains alignment with branding and emotional tone through consistent use of colours and fonts.
+
+By studying Figma, we can accurately replicate mockups in code, creating a seamless bridge between design and development.
 
