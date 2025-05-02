@@ -93,6 +93,22 @@ Understanding and identifying colour styles and typography in a mockup is crucia
 - **Scalability**: Enables easier maintenance and updates when scaling the app or adding themes.
 - **Developer-Designer Handoff**: Clear documentation makes it easier to translate mockups into code.
 - **Brand Identity**: Maintains alignment with branding and emotional tone through consistent use of colours and fonts.
+### 📌 Project Roles and Responsibilities
+
+This section outlines the key team roles in our Airbnb Clone project, along with their responsibilities and contributions to the project's success.
+
+| Role                | Responsibilities                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| **Project Manager** | Oversees the entire project, manages timelines, assigns tasks, and ensures goals are met. Acts as the main point of communication between the team and stakeholders. |
+| **Frontend Developers** | Build the user interface using HTML, CSS, and JavaScript (and possibly frameworks like React). Ensure the design is responsive and accessible. |
+| **Backend Developers** | Develop and manage the server-side logic, APIs, and database connections. Handle user authentication, data processing, and overall business logic. |
+| **Designers (UI/UX)** | Create wireframes, mockups, and final design assets using tools like Figma. Focus on user experience, visual style, and accessibility. |
+| **QA/Testers**       | Test the application to find and report bugs. Ensure all features work as intended across different devices and browsers. |
+| **DevOps Engineers** | Set up deployment pipelines, manage hosting environments, ensure app uptime, and automate tasks like testing and deployment. |
+| **Product Owner**    | Defines the product vision and ensures the team builds features that align with user needs. Prioritizes the backlog and collaborates closely with all team members. |
+| **Scrum Master**     | Facilitates Agile ceremonies (daily standups, sprint planning), removes blockers, and supports the team in following Agile best practices. |
+
+> Each role plays a critical part in ensuring we deliver a high-quality, user-friendly, and scalable application.
 
 By studying Figma, we can accurately replicate mockups in code, creating a seamless bridge between design and development.
 
