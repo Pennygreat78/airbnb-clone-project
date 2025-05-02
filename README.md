@@ -112,3 +112,14 @@ This section outlines the key team roles in our Airbnb Clone project, along with
 
 By studying Figma, we can accurately replicate mockups in code, creating a seamless bridge between design and development.
 
+## UI Component Patterns
+
+In this project, we plan to build and reuse the following UI components:
+
+| Component Name | Description |
+|----------------|-------------|
+| Navbar         | The top bar of the page with the logo, search bar, and menu icons. |
+| Property Card  | A small card showing a property image, price, location, and description. |
+| Footer         | The bottom part of the page with links, copyright, and contact info. |
+
+These components will help keep the design consistent and clean across different pages.
